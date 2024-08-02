@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning .NET<br>
+<br>
 <img src="https://www.codewars.com/users/someverything/badges/small" alt="Codewars Badge" />
 
 <!--
