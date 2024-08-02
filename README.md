@@ -1,6 +1,7 @@
 ## Hi there 👋
-🌱 I’m currently learning .NET
+🌱 I’m currently learning .NET<br>
 <img src="https://www.codewars.com/users/someverything/badges/small" alt="Codewars Badge" />
+
 <!--
 **someverything/someverything** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
